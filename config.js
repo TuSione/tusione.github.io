@@ -2,7 +2,7 @@
 (function(RM, undefined) {
 
 	RM.config = {
-		root: "tusion.xyz"
+		root: "/",
 		pushState: true
 	}
 

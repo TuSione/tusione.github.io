@@ -295,6 +295,7 @@ html[xmlns] .clearfix {
 body,
 input {
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility !important;
 }
 input:focus::-webkit-input-placeholder,
